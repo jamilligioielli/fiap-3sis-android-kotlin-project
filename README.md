@@ -1,2 +1,2 @@
-# fiap-3sis-android-kotlin-project
+# Android Kotlin App
 Projeto desenvolvido durante as aulas de Android Kotlin 2025
